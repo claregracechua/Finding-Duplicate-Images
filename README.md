@@ -1,9 +1,5 @@
 
-# Coding Take-Home Assignment
-
-Name: Cheng Chua
-Linkedin: http://linkedin.com/in/chuaccheng
-Email: chuaccheng@gmail.com
+# Finding Duplicate Images in Python
 
 This program was created as part of a take-home coding exercise.
 
