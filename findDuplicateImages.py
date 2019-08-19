@@ -1,5 +1,3 @@
-# CODING TASK
-# Candidate name: Cheng Chua
 # refer to README.md for any reference materials and considerations.
 
 # Solution referenced from: 
